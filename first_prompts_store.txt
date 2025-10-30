@@ -1,0 +1,203 @@
+pokemon_pairs = [
+    {
+        "base_name": "Flamkit",
+        "evolved_name": "Pyrolynx",
+        "base": {
+            "prompt": "small fiery lynx cub, orange and gold fur with ember tips, glowing paws, anime game art, cel-shaded, cute and energetic, full body, vibrant warm lighting, clean lineart",
+            "negative": "text, watermark, signature, extra limbs, bad anatomy, lowres, deformed, human form, armor, humanoid"
+        },
+        "evolved": {
+            "prompt": (
+                "Evolved warrior version of the creature in the image: bipedal feline warrior "
+                "with two legs and two arms, sleek flaming armor forming from its mane, glowing claws and tail embers, "
+                "retains orange-gold palette and feline facial features, upright battle stance, anime RPG art style, "
+                "cel-shaded, dynamic lighting, clean lineart, coherent humanoid anatomy, high detail"
+            ),
+            "negative": (
+                "quadruped, four legs, deer, dog, cat on all fours, hooves, animal muzzle, flat lighting, blurry, "
+                "text, watermark, malformed body, low quality, distorted proportions"
+            ),
+            "strength": 0.8,
+            "guidance_scale": 7.4
+        }
+    },
+    {
+        "base_name": "Spriggle",
+        "evolved_name": "Verdawn",
+        "base": {
+            "prompt": "tiny green reptile sprouting leaves along its spine, big eyes, curious expression, anime cel-shaded, vibrant jungle background, full body",
+            "negative": "text, watermark, signature, armor, humanoid, metallic, bad anatomy"
+        },
+        "evolved": {
+            "prompt": (
+                "Evolved humanoid forest guardian version of the creature in the image: tall bipedal lizard with arms and legs wrapped in vines, "
+                "wooden bark armor forming on shoulders, leafy antler crown, glowing green eyes, retains bright green and earthy brown palette, "
+                "majestic stance, anime fantasy art, cel-shaded, clean lineart, detailed texture work, coherent anatomy"
+            ),
+            "negative": (
+                "quadruped, small creature, insectoid, blob-like, mechanical, metallic, low quality, flat colors, "
+                "extra limbs, malformed anatomy, text, watermark"
+            ),
+            "strength": 0.75,
+            "guidance_scale": 7.2
+        }
+    },
+    {
+        "base_name": "Aquibbit",
+        "evolved_name": "Hydrap",
+        "base": {
+            "prompt": "small blue amphibian creature with bubble-like skin, wide smile, tiny fins, anime style, cel-shaded, water reflections, full body",
+            "negative": "text, watermark, signature, humanoid, armor, bad anatomy"
+        },
+        "evolved": {
+            "prompt": (
+                "Evolved sea-serpent version of the creature in the image: long aquatic dragon with three flowing fins on each side, "
+                "bioluminescent markings, glowing underbelly, water swirling around, retains deep blue and cyan palette, "
+                "anime fantasy art, cel-shaded, fluid composition, dynamic lighting, high detail"
+            ),
+            "negative": (
+                "frog-like, bipedal humanoid, mammal features, extra limbs, mechanical, lowres, blurry, bad perspective, text, watermark"
+            ),
+            "strength": 0.7,
+            "guidance_scale": 7.0
+        }
+    },
+    {
+        "base_name": "Volpup",
+        "evolved_name": "Stormane",
+        "base": {
+            "prompt": "small electric fox cub, yellow fur with blue lightning streaks, anime cel-shaded, clean lineart, energetic expression, full body",
+            "negative": "text, watermark, signature, humanoid, extra limbs, bad anatomy"
+        },
+        "evolved": {
+            "prompt": (
+                "Evolved humanoid thunder guardian version of the creature in the image: upright fox-like warrior with blue lightning armor, "
+                "spiked tail glowing with electric energy, storm aura around body, retains yellow-blue palette, anime RPG art style, "
+                "cel-shaded, dramatic pose, coherent humanoid anatomy, heroic silhouette, glowing eyes"
+            ),
+            "negative": (
+                "quadruped fox, four-legged animal, hooves, dog body, flat lighting, messy lineart, lowres, malformed limbs, text, watermark"
+            ),
+            "strength": 0.85,
+            "guidance_scale": 7.6
+        }
+    },
+    {
+        "base_name": "Frystail",
+        "evolved_name": "Cryovian",
+        "base": {
+            "prompt": "small ice fox creature, white and cyan fur, frosty breath, anime game art, cel-shaded, full body, snowy background, cute expression",
+            "negative": "text, watermark, signature, armor, humanoid, fire, bad anatomy"
+        },
+        "evolved": {
+            "prompt": (
+                "Evolved spirit form of the creature in the image: ethereal bipedal fox spirit with flowing frost robes, "
+                "crystal antlers, glowing cyan eyes, body made of semi-transparent ice shards, retains cyan-white color palette, "
+                "anime fantasy art, high detail, cel-shaded, elegant posture, magical aura"
+            ),
+            "negative": (
+                "animal fox, quadruped, solid metal, mechanical, distorted anatomy, melted textures, text, watermark, low quality"
+            ),
+            "strength": 0.8,
+            "guidance_scale": 7.5
+        }
+    },
+    {
+        "base_name": "Tuskip",
+        "evolved_name": "Ironusk",
+        "base": {
+            "prompt": "small gray boar creature with tiny tusks and rough fur, muddy terrain, anime cel-shaded, cute yet tough, full body",
+            "negative": "text, watermark, signature, humanoid, armor, deformed, bad anatomy"
+        },
+        "evolved": {
+            "prompt": (
+                "Evolved armored beast form of the creature in the image: massive iron-plated boar with glowing red tusks, molten cracks along armor, "
+                "steam rising from nostrils, retains gray and brown palette, anime battle art, cel-shaded, dynamic pose, heavy metallic detail"
+            ),
+            "negative": (
+                "humanoid, bipedal, small piglet, organic flesh armor, distorted limbs, text, watermark, flat lighting"
+            ),
+            "strength": 0.6,
+            "guidance_scale": 7.1
+        }
+    },
+    {
+        "base_name": "Lumini",
+        "evolved_name": "Auralis",
+        "base": {
+            "prompt": "tiny floating jellyfish-like creature, soft purple glow, translucent body, anime cel-shaded, underwater lighting, gentle expression",
+            "negative": "text, watermark, signature, human face, extra limbs, bad anatomy"
+        },
+        "evolved": {
+            "prompt": (
+                "Evolved celestial being version of the creature in the image: tall humanoid made of glowing jellyfish light, "
+                "flowing tendrils for hair, floating bioluminescent halo, transparent body showing light veins, retains soft purple and pink palette, "
+                "anime ethereal art, celestial glow, clean lineart, high detail"
+            ),
+            "negative": (
+                "small jellyfish, fish body, quadruped, opaque textures, mechanical, low quality, overexposed, flat background, text, watermark"
+            ),
+            "strength": 0.85,
+            "guidance_scale": 7.3
+        }
+    },
+    {
+        "base_name": "Pebblit",
+        "evolved_name": "Georok",
+        "base": {
+            "prompt": "tiny rock golem with moss patches, round body, glowing eyes, anime cel-shaded, full body, earthy colors",
+            "negative": "text, watermark, signature, humanoid, animal, bad anatomy"
+        },
+        "evolved": {
+            "prompt": (
+                "Evolved guardian version of the creature in the image: towering humanoid golem made of layered stone and moss armor, "
+                "ancient rune carvings glowing on chest and arms, retains earthy brown and green palette, anime fantasy art, cel-shaded, "
+                "clean lineart, massive presence, coherent humanoid anatomy"
+            ),
+            "negative": (
+                "tiny golem, quadruped, blob shape, metal body, mechanical, distorted proportions, text, watermark, lowres"
+            ),
+            "strength": 0.8,
+            "guidance_scale": 7.4
+        }
+    },
+    {
+        "base_name": "Glintbug",
+        "evolved_name": "Luminid",
+        "base": {
+            "prompt": "small insect creature with glowing abdomen, metallic wings, yellow and teal hues, anime cel-shaded, clean lineart, cute design",
+            "negative": "text, watermark, signature, humanoid, distorted, bad anatomy"
+        },
+        "evolved": {
+            "prompt": (
+                "Evolved luminous insect queen version of the creature in the image: massive moth-dragon hybrid with radiant crystalized wings, "
+                "luminescent patterns that pulse with energy, retains yellow and teal palette, elegant posture, glowing aura, "
+                "anime fantasy art, cel-shaded, intricate detail, dynamic lighting"
+            ),
+            "negative": (
+                "small bug, flat wings, low detail, humanoid, distorted body, asymmetrical, blurred, text, watermark"
+            ),
+            "strength": 0.65,
+            "guidance_scale": 7.1
+        }
+    },
+    {
+        "base_name": "Duskit",
+        "evolved_name": "Noctyros",
+        "base": {
+            "prompt": "small bat-like creature, dark purple fur, glowing magenta eyes, playful pose, anime cel-shaded, clean lineart",
+            "negative": "text, watermark, signature, humanoid, deformed, mechanical"
+        },
+        "evolved": {
+            "prompt": (
+                "Evolved dark warrior form of the creature in the image: tall humanoid bat knight with cloak-like wings, ornate armor with glowing magenta runes, "
+                "sharp claws and piercing eyes, retains purple-magenta palette, anime RPG art style, dynamic lighting, heroic stance, cel-shaded, high detail"
+            ),
+            "negative": (
+                "small bat, quadruped, animal-only, deer, malformed face, distorted proportions, text, watermark, lowres, low quality"
+            ),
+            "strength": 0.82,
+            "guidance_scale": 7.6
+        }
+    }
+]
