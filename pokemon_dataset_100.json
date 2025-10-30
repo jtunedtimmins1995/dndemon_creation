@@ -1,0 +1,2202 @@
+[
+  {
+    "base_name": "Blazekit",
+    "evolved_name": "BlazekitNova",
+    "element_type": "fighting",
+    "color_palette": "scarlet, tan",
+    "size_tier": "large",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing fighting spirit named Blazekit, motif hints: dust, clay, plates, RETAINS SCARLET, TAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS SCARLET, TAN PALETTE and core motif (dust, clay, plates), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Skarnsteel",
+    "evolved_name": "SkarnsteelVanguard",
+    "element_type": "ghost",
+    "color_palette": "indigo, black",
+    "size_tier": "large",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing ghost entity named Skarnsteel, motif hints: plaincoat, pattern, stamina, RETAINS INDIGO, BLACK PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS INDIGO, BLACK PALETTE and core motif (plaincoat, pattern, stamina), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Spireroot",
+    "evolved_name": "SpirerootMonarch",
+    "element_type": "fairy",
+    "color_palette": "pink, pearl",
+    "size_tier": "small",
+    "evolution_change_type": "both",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile fairy creature named Spireroot, motif hints: wisps, ectoplasm, runes, RETAINS PINK, PEARL PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: RADICAL OVERHAUL \u2014 NEW ANATOMY AND MUCH LARGER SCALE, layered armor, emblem flares, dynamic effects, stage-like composition, RETAINS PINK, PEARL PALETTE and core motif (wisps, ectoplasm, runes), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical size, identical body plan",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Ferrogust",
+    "evolved_name": "FerrogustMonarch",
+    "element_type": "electric",
+    "color_palette": "yellow, teal",
+    "size_tier": "large",
+    "evolution_change_type": "similar",
+    "shape_change_level": "minor",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing electric entity named Ferrogust, motif hints: frost, crystals, vapor, RETAINS YELLOW, TEAL PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: refined and enhanced version with upgraded ornaments and energy vents, stronger presence, keeps original body plan, subtle armor accents, dynamic posture, RETAINS YELLOW, TEAL PALETTE and core motif (frost, crystals, vapor), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, extreme deformation, radical body swap",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Noctcinder",
+    "evolved_name": "NoctcinderLord",
+    "element_type": "ground",
+    "color_palette": "ochre, sand",
+    "size_tier": "large",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing ground sentinel named Noctcinder, motif hints: galaxy specks, void smoke, RETAINS OCHRE, SAND PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO FULL-BODY HUMANOID WARRIOR with TWO ARMS, TWO LEGS, hands with fingers, defined shoulders and knees, heroic silhouette, new anatomy, battle-ready pose, RETAINS OCHRE, SAND PALETTE and core motif (galaxy specks, void smoke), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Pebvine",
+    "evolved_name": "PebvineOverlord",
+    "element_type": "normal",
+    "color_palette": "cream, tan",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy normal spirit named Pebvine, motif hints: scales, crests, ancient bloodline, RETAINS CREAM, TAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO ANGELIC SENTINEL with wing arrays and floating armor rings, heroic silhouette, new anatomy, battle-ready pose, RETAINS CREAM, TAN PALETTE and core motif (scales, crests, ancient bloodline), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Spiremini",
+    "evolved_name": "SpireminiWyrm",
+    "element_type": "fire",
+    "color_palette": "orange, gold",
+    "size_tier": "small",
+    "evolution_change_type": "similar",
+    "shape_change_level": "minor",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile fire sentinel named Spiremini, motif hints: scales, crests, ancient bloodline, RETAINS ORANGE, GOLD PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: refined and enhanced version with upgraded ornaments and energy vents, stronger presence, keeps original body plan, subtle armor accents, dynamic posture, RETAINS ORANGE, GOLD PALETTE and core motif (scales, crests, ancient bloodline), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, extreme deformation, radical body swap",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Glyphthorn",
+    "evolved_name": "GlyphthornZeal",
+    "element_type": "flying",
+    "color_palette": "sky-blue, white",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy flying beast named Glyphthorn, motif hints: galaxy specks, void smoke, RETAINS SKY-BLUE, WHITE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO FULL-BODY HUMANOID WARRIOR with TWO ARMS, TWO LEGS, hands with fingers, defined shoulders and knees, heroic silhouette, new anatomy, battle-ready pose, RETAINS SKY-BLUE, WHITE PALETTE and core motif (galaxy specks, void smoke), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Nebvolt",
+    "evolved_name": "NebvoltRex",
+    "element_type": "cosmic",
+    "color_palette": "violet, starlight",
+    "size_tier": "small",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile cosmic creature named Nebvolt, motif hints: toxins, fumes, spines, RETAINS VIOLET, STARLIGHT PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS VIOLET, STARLIGHT PALETTE and core motif (toxins, fumes, spines), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Arcroot",
+    "evolved_name": "ArcrootMonarch",
+    "element_type": "ghost",
+    "color_palette": "indigo, black",
+    "size_tier": "small",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile ghost beast named Arcroot, motif hints: speaker grills, waveforms, RETAINS INDIGO, BLACK PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO SERPENTINE TITAN with elongated body, crest fins, flowing frills, heroic silhouette, new anatomy, battle-ready pose, RETAINS INDIGO, BLACK PALETTE and core motif (speaker grills, waveforms), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Noctmire",
+    "evolved_name": "NoctmireDominus",
+    "element_type": "ice",
+    "color_palette": "white, cyan",
+    "size_tier": "small",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile ice entity named Noctmire, motif hints: wraps, bands, striker pose, RETAINS WHITE, CYAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO SERPENTINE TITAN with elongated body, crest fins, flowing frills, heroic silhouette, new anatomy, battle-ready pose, RETAINS WHITE, CYAN PALETTE and core motif (wraps, bands, striker pose), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Borealdian",
+    "evolved_name": "BorealdianSavant",
+    "element_type": "normal",
+    "color_palette": "cream, tan",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy normal wyrmling named Borealdian, motif hints: sigils, telekinesis, aura, RETAINS CREAM, TAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS CREAM, TAN PALETTE and core motif (sigils, telekinesis, aura), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Frysmire",
+    "evolved_name": "FrysmireLord",
+    "element_type": "flying",
+    "color_palette": "sky-blue, white",
+    "size_tier": "large",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing flying chimera named Frysmire, motif hints: shadows, fangs, cloak, RETAINS SKY-BLUE, WHITE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO MECH-FRAME KNIGHT with articulated plating and energy joints, heroic silhouette, new anatomy, battle-ready pose, RETAINS SKY-BLUE, WHITE PALETTE and core motif (shadows, fangs, cloak), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Lunarquartz",
+    "evolved_name": "LunarquartzPrime",
+    "element_type": "ghost",
+    "color_palette": "indigo, black",
+    "size_tier": "large",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing ghost golem named Lunarquartz, motif hints: speaker grills, waveforms, RETAINS INDIGO, BLACK PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO FULL-BODY HUMANOID WARRIOR with TWO ARMS, TWO LEGS, hands with fingers, defined shoulders and knees, heroic silhouette, new anatomy, battle-ready pose, RETAINS INDIGO, BLACK PALETTE and core motif (speaker grills, waveforms), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Ignisbore",
+    "evolved_name": "IgnisboreColoss",
+    "element_type": "water",
+    "color_palette": "blue, cyan",
+    "size_tier": "large",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing water golem named Ignisbore, motif hints: toxins, fumes, spines, RETAINS BLUE, CYAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO MECH-FRAME KNIGHT with articulated plating and energy joints, heroic silhouette, new anatomy, battle-ready pose, RETAINS BLUE, CYAN PALETTE and core motif (toxins, fumes, spines), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Fangmist",
+    "evolved_name": "FangmistTitan",
+    "element_type": "ice",
+    "color_palette": "white, cyan",
+    "size_tier": "small",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile ice construct named Fangmist, motif hints: speaker grills, waveforms, RETAINS WHITE, CYAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS WHITE, CYAN PALETTE and core motif (speaker grills, waveforms), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Blazelight",
+    "evolved_name": "BlazelightPrime",
+    "element_type": "electric",
+    "color_palette": "yellow, teal",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy electric sentinel named Blazelight, motif hints: chitin, glow, wings, RETAINS YELLOW, TEAL PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS YELLOW, TEAL PALETTE and core motif (chitin, glow, wings), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Lumidon",
+    "evolved_name": "LumidonTitan",
+    "element_type": "electric",
+    "color_palette": "yellow, teal",
+    "size_tier": "medium",
+    "evolution_change_type": "both",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy electric golem named Lumidon, motif hints: ripples, bubbles, flowing water, RETAINS YELLOW, TEAL PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: RADICAL OVERHAUL \u2014 NEW ANATOMY AND MUCH LARGER SCALE, layered armor, emblem flares, dynamic effects, stage-like composition, RETAINS YELLOW, TEAL PALETTE and core motif (ripples, bubbles, flowing water), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical size, identical body plan",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Ignisbrand",
+    "evolved_name": "IgnisbrandRex",
+    "element_type": "normal",
+    "color_palette": "cream, tan",
+    "size_tier": "large",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing normal construct named Ignisbrand, motif hints: shadows, fangs, cloak, RETAINS CREAM, TAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO ANGELIC SENTINEL with wing arrays and floating armor rings, heroic silhouette, new anatomy, battle-ready pose, RETAINS CREAM, TAN PALETTE and core motif (shadows, fangs, cloak), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Tuskglyph",
+    "evolved_name": "TuskglyphRex",
+    "element_type": "normal",
+    "color_palette": "cream, tan",
+    "size_tier": "large",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing normal spirit named Tuskglyph, motif hints: bolts, arcs, capacitors, RETAINS CREAM, TAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS CREAM, TAN PALETTE and core motif (bolts, arcs, capacitors), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Voltthorn",
+    "evolved_name": "VoltthornAvatar",
+    "element_type": "bug",
+    "color_palette": "chartreuse, amber",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy bug creature named Voltthorn, motif hints: wraps, bands, striker pose, RETAINS CHARTREUSE, AMBER PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS CHARTREUSE, AMBER PALETTE and core motif (wraps, bands, striker pose), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Vinesteel",
+    "evolved_name": "VinesteelZeal",
+    "element_type": "ground",
+    "color_palette": "ochre, sand",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy ground sentinel named Vinesteel, motif hints: scales, crests, ancient bloodline, RETAINS OCHRE, SAND PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS OCHRE, SAND PALETTE and core motif (scales, crests, ancient bloodline), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Voltskarn",
+    "evolved_name": "VoltskarnZeal",
+    "element_type": "fighting",
+    "color_palette": "scarlet, tan",
+    "size_tier": "large",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing fighting creature named Voltskarn, motif hints: frost, crystals, vapor, RETAINS SCARLET, TAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS SCARLET, TAN PALETTE and core motif (frost, crystals, vapor), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Spiremire",
+    "evolved_name": "SpiremireArchon",
+    "element_type": "poison",
+    "color_palette": "purple, green",
+    "size_tier": "medium",
+    "evolution_change_type": "both",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy poison creature named Spiremire, motif hints: ripples, bubbles, flowing water, RETAINS PURPLE, GREEN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: RADICAL OVERHAUL \u2014 NEW ANATOMY AND MUCH LARGER SCALE, layered armor, emblem flares, dynamic effects, stage-like composition, RETAINS PURPLE, GREEN PALETTE and core motif (ripples, bubbles, flowing water), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical size, identical body plan",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Galetail",
+    "evolved_name": "GaletailRex",
+    "element_type": "flying",
+    "color_palette": "sky-blue, white",
+    "size_tier": "small",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile flying entity named Galetail, motif hints: vines, leaves, bark texture, RETAINS SKY-BLUE, WHITE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO FULL-BODY HUMANOID WARRIOR with TWO ARMS, TWO LEGS, hands with fingers, defined shoulders and knees, heroic silhouette, new anatomy, battle-ready pose, RETAINS SKY-BLUE, WHITE PALETTE and core motif (vines, leaves, bark texture), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Plumekip",
+    "evolved_name": "PlumekipOverlord",
+    "element_type": "sound",
+    "color_palette": "electric-blue, magenta",
+    "size_tier": "small",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile sound sentinel named Plumekip, motif hints: wisps, ectoplasm, runes, RETAINS ELECTRIC-BLUE, MAGENTA PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS ELECTRIC-BLUE, MAGENTA PALETTE and core motif (wisps, ectoplasm, runes), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Pyrobore",
+    "evolved_name": "PyroboreWarden",
+    "element_type": "sound",
+    "color_palette": "electric-blue, magenta",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy sound golem named Pyrobore, motif hints: speaker grills, waveforms, RETAINS ELECTRIC-BLUE, MAGENTA PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO QUADRUPED TITAN with elongated limbs and armored carapace, heroic silhouette, new anatomy, battle-ready pose, RETAINS ELECTRIC-BLUE, MAGENTA PALETTE and core motif (speaker grills, waveforms), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Blazewave",
+    "evolved_name": "BlazewaveMonarch",
+    "element_type": "ground",
+    "color_palette": "ochre, sand",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": true,
+    "base": {
+      "prompt": "mid-sized, sturdy ground creature named Blazewave, motif hints: frost, crystals, vapor, RETAINS OCHRE, SAND PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS OCHRE, SAND PALETTE and core motif (frost, crystals, vapor), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail ASCENDED GODLIKE DEITY FORM, AURA RADIATES DIVINITY, IMMENSE SCALE, HALO AND CELESTIAL MOTIFS, POWER SURGE",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Frysbramble",
+    "evolved_name": "FrysbrambleTitan",
+    "element_type": "dark",
+    "color_palette": "black, violet",
+    "size_tier": "small",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile dark beast named Frysbramble, motif hints: galaxy specks, void smoke, RETAINS BLACK, VIOLET PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO QUADRUPED TITAN with elongated limbs and armored carapace, heroic silhouette, new anatomy, battle-ready pose, RETAINS BLACK, VIOLET PALETTE and core motif (galaxy specks, void smoke), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Nebvine",
+    "evolved_name": "NebvineArchon",
+    "element_type": "ice",
+    "color_palette": "white, cyan",
+    "size_tier": "small",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile ice wyrmling named Nebvine, motif hints: starlight, sparkles, ribbons, RETAINS WHITE, CYAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS WHITE, CYAN PALETTE and core motif (starlight, sparkles, ribbons), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Mirekit",
+    "evolved_name": "MirekitZeal",
+    "element_type": "normal",
+    "color_palette": "cream, tan",
+    "size_tier": "large",
+    "evolution_change_type": "similar",
+    "shape_change_level": "minor",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing normal android named Mirekit, motif hints: gears, plates, magnetism, RETAINS CREAM, TAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: refined and enhanced version with upgraded ornaments and energy vents, stronger presence, keeps original body plan, subtle armor accents, dynamic posture, RETAINS CREAM, TAN PALETTE and core motif (gears, plates, magnetism), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, extreme deformation, radical body swap",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Hexcinder",
+    "evolved_name": "HexcinderGeist",
+    "element_type": "electric",
+    "color_palette": "yellow, teal",
+    "size_tier": "large",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing electric android named Hexcinder, motif hints: frost, crystals, vapor, RETAINS YELLOW, TEAL PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS YELLOW, TEAL PALETTE and core motif (frost, crystals, vapor), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Pyronix",
+    "evolved_name": "PyronixNova",
+    "element_type": "steel",
+    "color_palette": "silver, graphite",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy steel beast named Pyronix, motif hints: galaxy specks, void smoke, RETAINS SILVER, GRAPHITE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO ANGELIC SENTINEL with wing arrays and floating armor rings, heroic silhouette, new anatomy, battle-ready pose, RETAINS SILVER, GRAPHITE PALETTE and core motif (galaxy specks, void smoke), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Ignisbbit",
+    "evolved_name": "IgnisbbitLord",
+    "element_type": "dragon",
+    "color_palette": "turquoise, azure",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy dragon sprite named Ignisbbit, motif hints: ripples, bubbles, flowing water, RETAINS TURQUOISE, AZURE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO SERPENTINE TITAN with elongated body, crest fins, flowing frills, heroic silhouette, new anatomy, battle-ready pose, RETAINS TURQUOISE, AZURE PALETTE and core motif (ripples, bubbles, flowing water), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Lunarsteel",
+    "evolved_name": "LunarsteelZeal",
+    "element_type": "dragon",
+    "color_palette": "turquoise, azure",
+    "size_tier": "large",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing dragon creature named Lunarsteel, motif hints: boulders, strata, moss, RETAINS TURQUOISE, AZURE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO FULL-BODY HUMANOID WARRIOR with TWO ARMS, TWO LEGS, hands with fingers, defined shoulders and knees, heroic silhouette, new anatomy, battle-ready pose, RETAINS TURQUOISE, AZURE PALETTE and core motif (boulders, strata, moss), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Skarncinder",
+    "evolved_name": "SkarncinderGeist",
+    "element_type": "grass",
+    "color_palette": "green, lime",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy grass entity named Skarncinder, motif hints: frost, crystals, vapor, RETAINS GREEN, LIME PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS GREEN, LIME PALETTE and core motif (frost, crystals, vapor), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Mythlynx",
+    "evolved_name": "MythlynxRex",
+    "element_type": "ice",
+    "color_palette": "white, cyan",
+    "size_tier": "large",
+    "evolution_change_type": "both",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing ice sentinel named Mythlynx, motif hints: ripples, bubbles, flowing water, RETAINS WHITE, CYAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: RADICAL OVERHAUL \u2014 NEW ANATOMY AND MUCH LARGER SCALE, layered armor, emblem flares, dynamic effects, stage-like composition, RETAINS WHITE, CYAN PALETTE and core motif (ripples, bubbles, flowing water), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical size, identical body plan",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Plumehex",
+    "evolved_name": "PlumehexGeist",
+    "element_type": "electric",
+    "color_palette": "yellow, teal",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy electric golem named Plumehex, motif hints: starlight, sparkles, ribbons, RETAINS YELLOW, TEAL PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO SERPENTINE TITAN with elongated body, crest fins, flowing frills, heroic silhouette, new anatomy, battle-ready pose, RETAINS YELLOW, TEAL PALETTE and core motif (starlight, sparkles, ribbons), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Murkbore",
+    "evolved_name": "MurkboreRex",
+    "element_type": "rock",
+    "color_palette": "brown, slate",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy rock android named Murkbore, motif hints: chitin, glow, wings, RETAINS BROWN, SLATE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO SERPENTINE TITAN with elongated body, crest fins, flowing frills, heroic silhouette, new anatomy, battle-ready pose, RETAINS BROWN, SLATE PALETTE and core motif (chitin, glow, wings), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Aerovia",
+    "evolved_name": "AeroviaVenator",
+    "element_type": "electric",
+    "color_palette": "yellow, teal",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy electric sprite named Aerovia, motif hints: dust, clay, plates, RETAINS YELLOW, TEAL PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS YELLOW, TEAL PALETTE and core motif (dust, clay, plates), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Glimmire",
+    "evolved_name": "GlimmireNova",
+    "element_type": "steel",
+    "color_palette": "silver, graphite",
+    "size_tier": "large",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": true,
+    "base": {
+      "prompt": "large, imposing steel construct named Glimmire, motif hints: wisps, ectoplasm, runes, RETAINS SILVER, GRAPHITE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS SILVER, GRAPHITE PALETTE and core motif (wisps, ectoplasm, runes), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail ASCENDED GODLIKE DEITY FORM, AURA RADIATES DIVINITY, IMMENSE SCALE, HALO AND CELESTIAL MOTIFS, POWER SURGE",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Nimbusbramble",
+    "evolved_name": "NimbusbrambleWarden",
+    "element_type": "dragon",
+    "color_palette": "turquoise, azure",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy dragon creature named Nimbusbramble, motif hints: starlight, sparkles, ribbons, RETAINS TURQUOISE, AZURE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS TURQUOISE, AZURE PALETTE and core motif (starlight, sparkles, ribbons), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Aquamini",
+    "evolved_name": "AquaminiDominus",
+    "element_type": "electric",
+    "color_palette": "yellow, teal",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy electric entity named Aquamini, motif hints: scales, crests, ancient bloodline, RETAINS YELLOW, TEAL PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS YELLOW, TEAL PALETTE and core motif (scales, crests, ancient bloodline), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Pebquake",
+    "evolved_name": "PebquakeVanguard",
+    "element_type": "fairy",
+    "color_palette": "pink, pearl",
+    "size_tier": "large",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing fairy golem named Pebquake, motif hints: toxins, fumes, spines, RETAINS PINK, PEARL PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS PINK, PEARL PALETTE and core motif (toxins, fumes, spines), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Mirebramble",
+    "evolved_name": "MirebrambleTitan",
+    "element_type": "dragon",
+    "color_palette": "turquoise, azure",
+    "size_tier": "small",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile dragon sprite named Mirebramble, motif hints: ripples, bubbles, flowing water, RETAINS TURQUOISE, AZURE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS TURQUOISE, AZURE PALETTE and core motif (ripples, bubbles, flowing water), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Plumewave",
+    "evolved_name": "PlumewaveEon",
+    "element_type": "bug",
+    "color_palette": "chartreuse, amber",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy bug android named Plumewave, motif hints: vines, leaves, bark texture, RETAINS CHARTREUSE, AMBER PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO MECH-FRAME KNIGHT with articulated plating and energy joints, heroic silhouette, new anatomy, battle-ready pose, RETAINS CHARTREUSE, AMBER PALETTE and core motif (vines, leaves, bark texture), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Cinderbug",
+    "evolved_name": "CinderbugTitan",
+    "element_type": "steel",
+    "color_palette": "silver, graphite",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy steel entity named Cinderbug, motif hints: chitin, glow, wings, RETAINS SILVER, GRAPHITE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO ANGELIC SENTINEL with wing arrays and floating armor rings, heroic silhouette, new anatomy, battle-ready pose, RETAINS SILVER, GRAPHITE PALETTE and core motif (chitin, glow, wings), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Cinderkit",
+    "evolved_name": "CinderkitWyrm",
+    "element_type": "rock",
+    "color_palette": "brown, slate",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy rock android named Cinderkit, motif hints: galaxy specks, void smoke, RETAINS BROWN, SLATE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO SERPENTINE TITAN with elongated body, crest fins, flowing frills, heroic silhouette, new anatomy, battle-ready pose, RETAINS BROWN, SLATE PALETTE and core motif (galaxy specks, void smoke), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Blazerill",
+    "evolved_name": "BlazerillVenator",
+    "element_type": "bug",
+    "color_palette": "chartreuse, amber",
+    "size_tier": "medium",
+    "evolution_change_type": "similar",
+    "shape_change_level": "minor",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy bug sentinel named Blazerill, motif hints: speaker grills, waveforms, RETAINS CHARTREUSE, AMBER PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: refined and enhanced version with upgraded ornaments and energy vents, stronger presence, keeps original body plan, subtle armor accents, dynamic posture, RETAINS CHARTREUSE, AMBER PALETTE and core motif (speaker grills, waveforms), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, extreme deformation, radical body swap",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Thornbore",
+    "evolved_name": "ThornboreMonarch",
+    "element_type": "psychic",
+    "color_palette": "magenta, violet",
+    "size_tier": "large",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing psychic android named Thornbore, motif hints: feathers, thermals, glide, RETAINS MAGENTA, VIOLET PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS MAGENTA, VIOLET PALETTE and core motif (feathers, thermals, glide), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Nimbusvolt",
+    "evolved_name": "NimbusvoltRex",
+    "element_type": "flying",
+    "color_palette": "sky-blue, white",
+    "size_tier": "large",
+    "evolution_change_type": "both",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing flying golem named Nimbusvolt, motif hints: galaxy specks, void smoke, RETAINS SKY-BLUE, WHITE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: RADICAL OVERHAUL \u2014 NEW ANATOMY AND MUCH LARGER SCALE, layered armor, emblem flares, dynamic effects, stage-like composition, RETAINS SKY-BLUE, WHITE PALETTE and core motif (galaxy specks, void smoke), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical size, identical body plan",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Plumetail",
+    "evolved_name": "PlumetailVenator",
+    "element_type": "ice",
+    "color_palette": "white, cyan",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy ice entity named Plumetail, motif hints: flames, embers, scorched markings, RETAINS WHITE, CYAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS WHITE, CYAN PALETTE and core motif (flames, embers, scorched markings), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Berryshine",
+    "evolved_name": "BerryshineRex",
+    "element_type": "sound",
+    "color_palette": "electric-blue, magenta",
+    "size_tier": "medium",
+    "evolution_change_type": "similar",
+    "shape_change_level": "minor",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy sound spirit named Berryshine, motif hints: sigils, telekinesis, aura, RETAINS ELECTRIC-BLUE, MAGENTA PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: refined and enhanced version with upgraded ornaments and energy vents, stronger presence, keeps original body plan, subtle armor accents, dynamic posture, RETAINS ELECTRIC-BLUE, MAGENTA PALETTE and core motif (sigils, telekinesis, aura), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, extreme deformation, radical body swap",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Zephsola",
+    "evolved_name": "ZephsolaSeraph",
+    "element_type": "fire",
+    "color_palette": "orange, gold",
+    "size_tier": "small",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile fire wyrmling named Zephsola, motif hints: bolts, arcs, capacitors, RETAINS ORANGE, GOLD PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO FULL-BODY HUMANOID WARRIOR with TWO ARMS, TWO LEGS, hands with fingers, defined shoulders and knees, heroic silhouette, new anatomy, battle-ready pose, RETAINS ORANGE, GOLD PALETTE and core motif (bolts, arcs, capacitors), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Blazebug",
+    "evolved_name": "BlazebugVenator",
+    "element_type": "normal",
+    "color_palette": "cream, tan",
+    "size_tier": "small",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile normal sentinel named Blazebug, motif hints: wisps, ectoplasm, runes, RETAINS CREAM, TAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS CREAM, TAN PALETTE and core motif (wisps, ectoplasm, runes), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Plumelight",
+    "evolved_name": "PlumelightSeraph",
+    "element_type": "flying",
+    "color_palette": "sky-blue, white",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy flying entity named Plumelight, motif hints: plaincoat, pattern, stamina, RETAINS SKY-BLUE, WHITE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS SKY-BLUE, WHITE PALETTE and core motif (plaincoat, pattern, stamina), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Fangrill",
+    "evolved_name": "FangrillNova",
+    "element_type": "normal",
+    "color_palette": "cream, tan",
+    "size_tier": "large",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing normal golem named Fangrill, motif hints: shadows, fangs, cloak, RETAINS CREAM, TAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO QUADRUPED TITAN with elongated limbs and armored carapace, heroic silhouette, new anatomy, battle-ready pose, RETAINS CREAM, TAN PALETTE and core motif (shadows, fangs, cloak), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Tidetail",
+    "evolved_name": "TidetailWyrm",
+    "element_type": "flying",
+    "color_palette": "sky-blue, white",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy flying golem named Tidetail, motif hints: wraps, bands, striker pose, RETAINS SKY-BLUE, WHITE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO QUADRUPED TITAN with elongated limbs and armored carapace, heroic silhouette, new anatomy, battle-ready pose, RETAINS SKY-BLUE, WHITE PALETTE and core motif (wraps, bands, striker pose), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Glintkit",
+    "evolved_name": "GlintkitRex",
+    "element_type": "poison",
+    "color_palette": "purple, green",
+    "size_tier": "small",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile poison entity named Glintkit, motif hints: toxins, fumes, spines, RETAINS PURPLE, GREEN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS PURPLE, GREEN PALETTE and core motif (toxins, fumes, spines), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Runebramble",
+    "evolved_name": "RunebrambleVenator",
+    "element_type": "ice",
+    "color_palette": "white, cyan",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy ice entity named Runebramble, motif hints: sigils, telekinesis, aura, RETAINS WHITE, CYAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO FULL-BODY HUMANOID WARRIOR with TWO ARMS, TWO LEGS, hands with fingers, defined shoulders and knees, heroic silhouette, new anatomy, battle-ready pose, RETAINS WHITE, CYAN PALETTE and core motif (sigils, telekinesis, aura), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Solgle",
+    "evolved_name": "SolgleVanguard",
+    "element_type": "psychic",
+    "color_palette": "magenta, violet",
+    "size_tier": "large",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing psychic entity named Solgle, motif hints: chitin, glow, wings, RETAINS MAGENTA, VIOLET PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS MAGENTA, VIOLET PALETTE and core motif (chitin, glow, wings), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Glyphquake",
+    "evolved_name": "GlyphquakeOverlord",
+    "element_type": "fighting",
+    "color_palette": "scarlet, tan",
+    "size_tier": "medium",
+    "evolution_change_type": "similar",
+    "shape_change_level": "minor",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy fighting beast named Glyphquake, motif hints: flames, embers, scorched markings, RETAINS SCARLET, TAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: refined and enhanced version with upgraded ornaments and energy vents, stronger presence, keeps original body plan, subtle armor accents, dynamic posture, RETAINS SCARLET, TAN PALETTE and core motif (flames, embers, scorched markings), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, extreme deformation, radical body swap",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Aeroflare",
+    "evolved_name": "AeroflareOverlord",
+    "element_type": "normal",
+    "color_palette": "cream, tan",
+    "size_tier": "medium",
+    "evolution_change_type": "similar",
+    "shape_change_level": "minor",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy normal wyrmling named Aeroflare, motif hints: galaxy specks, void smoke, RETAINS CREAM, TAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: refined and enhanced version with upgraded ornaments and energy vents, stronger presence, keeps original body plan, subtle armor accents, dynamic posture, RETAINS CREAM, TAN PALETTE and core motif (galaxy specks, void smoke), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, extreme deformation, radical body swap",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Arcthorn",
+    "evolved_name": "ArcthornVenator",
+    "element_type": "fire",
+    "color_palette": "orange, gold",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy fire spirit named Arcthorn, motif hints: dust, clay, plates, RETAINS ORANGE, GOLD PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO MECH-FRAME KNIGHT with articulated plating and energy joints, heroic silhouette, new anatomy, battle-ready pose, RETAINS ORANGE, GOLD PALETTE and core motif (dust, clay, plates), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Borebore",
+    "evolved_name": "BoreboreLord",
+    "element_type": "normal",
+    "color_palette": "cream, tan",
+    "size_tier": "large",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing normal construct named Borebore, motif hints: flames, embers, scorched markings, RETAINS CREAM, TAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO ANGELIC SENTINEL with wing arrays and floating armor rings, heroic silhouette, new anatomy, battle-ready pose, RETAINS CREAM, TAN PALETTE and core motif (flames, embers, scorched markings), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Quakewave",
+    "evolved_name": "QuakewaveTitan",
+    "element_type": "ice",
+    "color_palette": "white, cyan",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy ice wyrmling named Quakewave, motif hints: shadows, fangs, cloak, RETAINS WHITE, CYAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS WHITE, CYAN PALETTE and core motif (shadows, fangs, cloak), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Ignisglyph",
+    "evolved_name": "IgnisglyphOverlord",
+    "element_type": "poison",
+    "color_palette": "purple, green",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy poison android named Ignisglyph, motif hints: toxins, fumes, spines, RETAINS PURPLE, GREEN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO FULL-BODY HUMANOID WARRIOR with TWO ARMS, TWO LEGS, hands with fingers, defined shoulders and knees, heroic silhouette, new anatomy, battle-ready pose, RETAINS PURPLE, GREEN PALETTE and core motif (toxins, fumes, spines), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Mythwing",
+    "evolved_name": "MythwingMonarch",
+    "element_type": "fighting",
+    "color_palette": "scarlet, tan",
+    "size_tier": "small",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile fighting sentinel named Mythwing, motif hints: flames, embers, scorched markings, RETAINS SCARLET, TAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS SCARLET, TAN PALETTE and core motif (flames, embers, scorched markings), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Sprigcrest",
+    "evolved_name": "SprigcrestGeist",
+    "element_type": "water",
+    "color_palette": "blue, cyan",
+    "size_tier": "small",
+    "evolution_change_type": "both",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile water golem named Sprigcrest, motif hints: flames, embers, scorched markings, RETAINS BLUE, CYAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: RADICAL OVERHAUL \u2014 NEW ANATOMY AND MUCH LARGER SCALE, layered armor, emblem flares, dynamic effects, stage-like composition, RETAINS BLUE, CYAN PALETTE and core motif (flames, embers, scorched markings), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical size, identical body plan",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Pyrobrand",
+    "evolved_name": "PyrobrandNova",
+    "element_type": "ice",
+    "color_palette": "white, cyan",
+    "size_tier": "large",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing ice sprite named Pyrobrand, motif hints: wraps, bands, striker pose, RETAINS WHITE, CYAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS WHITE, CYAN PALETTE and core motif (wraps, bands, striker pose), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Lunarblit",
+    "evolved_name": "LunarblitArchon",
+    "element_type": "rock",
+    "color_palette": "brown, slate",
+    "size_tier": "large",
+    "evolution_change_type": "similar",
+    "shape_change_level": "minor",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing rock android named Lunarblit, motif hints: galaxy specks, void smoke, RETAINS BROWN, SLATE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: refined and enhanced version with upgraded ornaments and energy vents, stronger presence, keeps original body plan, subtle armor accents, dynamic posture, RETAINS BROWN, SLATE PALETTE and core motif (galaxy specks, void smoke), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, extreme deformation, radical body swap",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Borenix",
+    "evolved_name": "BorenixAvatar",
+    "element_type": "electric",
+    "color_palette": "yellow, teal",
+    "size_tier": "medium",
+    "evolution_change_type": "both",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy electric entity named Borenix, motif hints: speaker grills, waveforms, RETAINS YELLOW, TEAL PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: RADICAL OVERHAUL \u2014 NEW ANATOMY AND MUCH LARGER SCALE, layered armor, emblem flares, dynamic effects, stage-like composition, RETAINS YELLOW, TEAL PALETTE and core motif (speaker grills, waveforms), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical size, identical body plan",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Terramini",
+    "evolved_name": "TerraminiWyrm",
+    "element_type": "psychic",
+    "color_palette": "magenta, violet",
+    "size_tier": "large",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": true,
+    "base": {
+      "prompt": "large, imposing psychic sentinel named Terramini, motif hints: vines, leaves, bark texture, RETAINS MAGENTA, VIOLET PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO MECH-FRAME KNIGHT with articulated plating and energy joints, heroic silhouette, new anatomy, battle-ready pose, RETAINS MAGENTA, VIOLET PALETTE and core motif (vines, leaves, bark texture), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail ASCENDED GODLIKE DEITY FORM, AURA RADIATES DIVINITY, IMMENSE SCALE, HALO AND CELESTIAL MOTIFS, POWER SURGE",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Bramsteel",
+    "evolved_name": "BramsteelSavant",
+    "element_type": "electric",
+    "color_palette": "yellow, teal",
+    "size_tier": "medium",
+    "evolution_change_type": "both",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy electric construct named Bramsteel, motif hints: speaker grills, waveforms, RETAINS YELLOW, TEAL PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: RADICAL OVERHAUL \u2014 NEW ANATOMY AND MUCH LARGER SCALE, layered armor, emblem flares, dynamic effects, stage-like composition, RETAINS YELLOW, TEAL PALETTE and core motif (speaker grills, waveforms), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical size, identical body plan",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Berrymini",
+    "evolved_name": "BerryminiOverlord",
+    "element_type": "flying",
+    "color_palette": "sky-blue, white",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy flying sprite named Berrymini, motif hints: toxins, fumes, spines, RETAINS SKY-BLUE, WHITE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO ANGELIC SENTINEL with wing arrays and floating armor rings, heroic silhouette, new anatomy, battle-ready pose, RETAINS SKY-BLUE, WHITE PALETTE and core motif (toxins, fumes, spines), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Plumebramble",
+    "evolved_name": "PlumebrambleColoss",
+    "element_type": "ice",
+    "color_palette": "white, cyan",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy ice wyrmling named Plumebramble, motif hints: chitin, glow, wings, RETAINS WHITE, CYAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO ANGELIC SENTINEL with wing arrays and floating armor rings, heroic silhouette, new anatomy, battle-ready pose, RETAINS WHITE, CYAN PALETTE and core motif (chitin, glow, wings), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Tuskflare",
+    "evolved_name": "TuskflareVenator",
+    "element_type": "sound",
+    "color_palette": "electric-blue, magenta",
+    "size_tier": "large",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing sound golem named Tuskflare, motif hints: scales, crests, ancient bloodline, RETAINS ELECTRIC-BLUE, MAGENTA PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS ELECTRIC-BLUE, MAGENTA PALETTE and core motif (scales, crests, ancient bloodline), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Runegle",
+    "evolved_name": "RunegleColoss",
+    "element_type": "dark",
+    "color_palette": "black, violet",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy dark sprite named Runegle, motif hints: speaker grills, waveforms, RETAINS BLACK, VIOLET PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO SERPENTINE TITAN with elongated body, crest fins, flowing frills, heroic silhouette, new anatomy, battle-ready pose, RETAINS BLACK, VIOLET PALETTE and core motif (speaker grills, waveforms), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Runeflare",
+    "evolved_name": "RuneflareDominus",
+    "element_type": "fighting",
+    "color_palette": "scarlet, tan",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy fighting android named Runeflare, motif hints: sigils, telekinesis, aura, RETAINS SCARLET, TAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO MECH-FRAME KNIGHT with articulated plating and energy joints, heroic silhouette, new anatomy, battle-ready pose, RETAINS SCARLET, TAN PALETTE and core motif (sigils, telekinesis, aura), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Terralight",
+    "evolved_name": "TerralightOverlord",
+    "element_type": "fire",
+    "color_palette": "orange, gold",
+    "size_tier": "small",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "small, agile fire wyrmling named Terralight, motif hints: feathers, thermals, glide, RETAINS ORANGE, GOLD PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO MECH-FRAME KNIGHT with articulated plating and energy joints, heroic silhouette, new anatomy, battle-ready pose, RETAINS ORANGE, GOLD PALETTE and core motif (feathers, thermals, glide), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Tidegle",
+    "evolved_name": "TidegleMonarch",
+    "element_type": "ghost",
+    "color_palette": "indigo, black",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy ghost android named Tidegle, motif hints: wraps, bands, striker pose, RETAINS INDIGO, BLACK PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO SERPENTINE TITAN with elongated body, crest fins, flowing frills, heroic silhouette, new anatomy, battle-ready pose, RETAINS INDIGO, BLACK PALETTE and core motif (wraps, bands, striker pose), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Fangcinder",
+    "evolved_name": "FangcinderSeraph",
+    "element_type": "ground",
+    "color_palette": "ochre, sand",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy ground sprite named Fangcinder, motif hints: wisps, ectoplasm, runes, RETAINS OCHRE, SAND PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS OCHRE, SAND PALETTE and core motif (wisps, ectoplasm, runes), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Ignisvolt",
+    "evolved_name": "IgnisvoltNova",
+    "element_type": "bug",
+    "color_palette": "chartreuse, amber",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy bug golem named Ignisvolt, motif hints: plaincoat, pattern, stamina, RETAINS CHARTREUSE, AMBER PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS CHARTREUSE, AMBER PALETTE and core motif (plaincoat, pattern, stamina), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Cryolynx",
+    "evolved_name": "CryolynxColoss",
+    "element_type": "electric",
+    "color_palette": "yellow, teal",
+    "size_tier": "large",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": true,
+    "base": {
+      "prompt": "large, imposing electric android named Cryolynx, motif hints: sigils, telekinesis, aura, RETAINS YELLOW, TEAL PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO MECH-FRAME KNIGHT with articulated plating and energy joints, heroic silhouette, new anatomy, battle-ready pose, RETAINS YELLOW, TEAL PALETTE and core motif (sigils, telekinesis, aura), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail ASCENDED GODLIKE DEITY FORM, AURA RADIATES DIVINITY, IMMENSE SCALE, HALO AND CELESTIAL MOTIFS, POWER SURGE",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Cryovine",
+    "evolved_name": "CryovineRex",
+    "element_type": "flying",
+    "color_palette": "sky-blue, white",
+    "size_tier": "large",
+    "evolution_change_type": "both",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing flying sprite named Cryovine, motif hints: galaxy specks, void smoke, RETAINS SKY-BLUE, WHITE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: RADICAL OVERHAUL \u2014 NEW ANATOMY AND MUCH LARGER SCALE, layered armor, emblem flares, dynamic effects, stage-like composition, RETAINS SKY-BLUE, WHITE PALETTE and core motif (galaxy specks, void smoke), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical size, identical body plan",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Voltcinder",
+    "evolved_name": "VoltcinderWyrm",
+    "element_type": "rock",
+    "color_palette": "brown, slate",
+    "size_tier": "large",
+    "evolution_change_type": "similar",
+    "shape_change_level": "minor",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing rock spirit named Voltcinder, motif hints: gears, plates, magnetism, RETAINS BROWN, SLATE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: refined and enhanced version with upgraded ornaments and energy vents, stronger presence, keeps original body plan, subtle armor accents, dynamic posture, RETAINS BROWN, SLATE PALETTE and core motif (gears, plates, magnetism), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, extreme deformation, radical body swap",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Vinebite",
+    "evolved_name": "VinebiteColoss",
+    "element_type": "fighting",
+    "color_palette": "scarlet, tan",
+    "size_tier": "large",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing fighting wyrmling named Vinebite, motif hints: bolts, arcs, capacitors, RETAINS SCARLET, TAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO QUADRUPED TITAN with elongated limbs and armored carapace, heroic silhouette, new anatomy, battle-ready pose, RETAINS SCARLET, TAN PALETTE and core motif (bolts, arcs, capacitors), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Pebtail",
+    "evolved_name": "PebtailAvatar",
+    "element_type": "rock",
+    "color_palette": "brown, slate",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy rock wyrmling named Pebtail, motif hints: ripples, bubbles, flowing water, RETAINS BROWN, SLATE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO FULL-BODY HUMANOID WARRIOR with TWO ARMS, TWO LEGS, hands with fingers, defined shoulders and knees, heroic silhouette, new anatomy, battle-ready pose, RETAINS BROWN, SLATE PALETTE and core motif (ripples, bubbles, flowing water), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Tuskdon",
+    "evolved_name": "TuskdonEon",
+    "element_type": "sound",
+    "color_palette": "electric-blue, magenta",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy sound beast named Tuskdon, motif hints: ripples, bubbles, flowing water, RETAINS ELECTRIC-BLUE, MAGENTA PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS ELECTRIC-BLUE, MAGENTA PALETTE and core motif (ripples, bubbles, flowing water), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Aeromire",
+    "evolved_name": "AeromireAvatar",
+    "element_type": "bug",
+    "color_palette": "chartreuse, amber",
+    "size_tier": "large",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing bug wyrmling named Aeromire, motif hints: galaxy specks, void smoke, RETAINS CHARTREUSE, AMBER PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO ANGELIC SENTINEL with wing arrays and floating armor rings, heroic silhouette, new anatomy, battle-ready pose, RETAINS CHARTREUSE, AMBER PALETTE and core motif (galaxy specks, void smoke), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Borecrest",
+    "evolved_name": "BorecrestPrime",
+    "element_type": "steel",
+    "color_palette": "silver, graphite",
+    "size_tier": "medium",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy steel chimera named Borecrest, motif hints: speaker grills, waveforms, RETAINS SILVER, GRAPHITE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO FULL-BODY HUMANOID WARRIOR with TWO ARMS, TWO LEGS, hands with fingers, defined shoulders and knees, heroic silhouette, new anatomy, battle-ready pose, RETAINS SILVER, GRAPHITE PALETTE and core motif (speaker grills, waveforms), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Thorndon",
+    "evolved_name": "ThorndonArchon",
+    "element_type": "psychic",
+    "color_palette": "magenta, violet",
+    "size_tier": "large",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": true,
+    "base": {
+      "prompt": "large, imposing psychic beast named Thorndon, motif hints: sigils, telekinesis, aura, RETAINS MAGENTA, VIOLET PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS MAGENTA, VIOLET PALETTE and core motif (sigils, telekinesis, aura), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail ASCENDED GODLIKE DEITY FORM, AURA RADIATES DIVINITY, IMMENSE SCALE, HALO AND CELESTIAL MOTIFS, POWER SURGE",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Solgust",
+    "evolved_name": "SolgustColoss",
+    "element_type": "grass",
+    "color_palette": "green, lime",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy grass android named Solgust, motif hints: boulders, strata, moss, RETAINS GREEN, LIME PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS GREEN, LIME PALETTE and core motif (boulders, strata, moss), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Solbrand",
+    "evolved_name": "SolbrandMonarch",
+    "element_type": "water",
+    "color_palette": "blue, cyan",
+    "size_tier": "medium",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "mid-sized, sturdy water sentinel named Solbrand, motif hints: wisps, ectoplasm, runes, RETAINS BLUE, CYAN PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS BLUE, CYAN PALETTE and core motif (wisps, ectoplasm, runes), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Skarnbore",
+    "evolved_name": "SkarnboreTitan",
+    "element_type": "ghost",
+    "color_palette": "indigo, black",
+    "size_tier": "large",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing ghost entity named Skarnbore, motif hints: scales, crests, ancient bloodline, RETAINS INDIGO, BLACK PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS INDIGO, BLACK PALETTE and core motif (scales, crests, ancient bloodline), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Igniskit",
+    "evolved_name": "IgniskitMonarch",
+    "element_type": "electric",
+    "color_palette": "yellow, teal",
+    "size_tier": "large",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing electric creature named Igniskit, motif hints: plaincoat, pattern, stamina, RETAINS YELLOW, TEAL PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS YELLOW, TEAL PALETTE and core motif (plaincoat, pattern, stamina), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Vinerill",
+    "evolved_name": "VinerillEon",
+    "element_type": "rock",
+    "color_palette": "brown, slate",
+    "size_tier": "large",
+    "evolution_change_type": "both",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing rock wyrmling named Vinerill, motif hints: gears, plates, magnetism, RETAINS BROWN, SLATE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: RADICAL OVERHAUL \u2014 NEW ANATOMY AND MUCH LARGER SCALE, layered armor, emblem flares, dynamic effects, stage-like composition, RETAINS BROWN, SLATE PALETTE and core motif (gears, plates, magnetism), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical size, identical body plan",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Bramroot",
+    "evolved_name": "BramrootVenator",
+    "element_type": "steel",
+    "color_palette": "silver, graphite",
+    "size_tier": "large",
+    "evolution_change_type": "similar",
+    "shape_change_level": "minor",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing steel construct named Bramroot, motif hints: dust, clay, plates, RETAINS SILVER, GRAPHITE PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: refined and enhanced version with upgraded ornaments and energy vents, stronger presence, keeps original body plan, subtle armor accents, dynamic posture, RETAINS SILVER, GRAPHITE PALETTE and core motif (dust, clay, plates), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, extreme deformation, radical body swap",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Echogust",
+    "evolved_name": "EchogustNova",
+    "element_type": "cosmic",
+    "color_palette": "violet, starlight",
+    "size_tier": "large",
+    "evolution_change_type": "size",
+    "shape_change_level": "moderate",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing cosmic creature named Echogust, motif hints: ripples, bubbles, flowing water, RETAINS VIOLET, STARLIGHT PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: MUCH LARGER AND HEAVIER silhouette, reinforced plates and layered segments, massive stance, towering height, environment scale cues, RETAINS VIOLET, STARLIGHT PALETTE and core motif (ripples, bubbles, flowing water), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, small scale, tiny figure, thin flimsy body",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  },
+  {
+    "base_name": "Skarngle",
+    "evolved_name": "SkarngleNova",
+    "element_type": "grass",
+    "color_palette": "green, lime",
+    "size_tier": "large",
+    "evolution_change_type": "structure",
+    "shape_change_level": "major",
+    "deity": false,
+    "base": {
+      "prompt": "large, imposing grass chimera named Skarngle, motif hints: wisps, ectoplasm, runes, RETAINS GREEN, LIME PALETTE, anime cel-shaded creature art, CLEAN LINEART, FULL BODY, neutral background, sharp silhouette",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, extra limbs, malformed anatomy, cropped, heavy motion blur",
+      "style": "ANIME CEL-SHADED CREATURE ART",
+      "shot": "FULL BODY"
+    },
+    "evolved": {
+      "prompt": "Evolved form: TRANSFORMS INTO FULL-BODY HUMANOID WARRIOR with TWO ARMS, TWO LEGS, hands with fingers, defined shoulders and knees, heroic silhouette, new anatomy, battle-ready pose, RETAINS GREEN, LIME PALETTE and core motif (wisps, ectoplasm, runes), ANIME RPG / FANTASY CEL-SHADED ART, CLEAN LINEART, FULL BODY, high detail",
+      "negative": "text, watermark, signature, lowres, blurry, messy lineart, malformed anatomy, tiny chibi, cropped, identical body plan, no anatomy change, exact quadruped copy",
+      "style": "ANIME RPG / FANTASY CEL-SHADED",
+      "shot": "FULL BODY"
+    }
+  }
+]
